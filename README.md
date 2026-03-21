@@ -1,16 +1,100 @@
-## Hi there 👋
+<h1 align="center">Azratl</h1>
+<h3 align="center">Machine Learning & Computer Vision Developer</h3>
 
-<!--
-**Azratl1/Azratl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 О себе
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Разработчик, специализирующийся на задачах машинного обучения и компьютерного зрения.
+
+Основное направление — разработка систем для анализа изображений, включая детекцию объектов, обработку визуальных данных и построение end-to-end пайплайнов.
+
+---
+
+## 🔍 Ключевые навыки
+
+* Machine Learning (базовые модели, работа с данными)
+* Computer Vision (анализ и обработка изображений)
+* Детекция объектов и локализация
+* Обработка изображений (фильтрация, сегментация, улучшение качества)
+* Построение пайплайнов обработки:
+  `изображение → предобработка → модель → результат`
+* Работа с данными и подготовка датасетов
+
+---
+
+## 🧩 Проекты
+
+### Plate Recognizing
+
+Система для обнаружения и выделения объектов на изображениях.
+
+**Функциональность:**
+
+* анализ входного изображения
+* локализация области интереса
+* предобработка данных
+
+---
+
+### Plates Detection & Recognizing
+
+Решение для анализа изображений с целью обнаружения объектов и извлечения информации.
+
+**Функциональность:**
+
+* детекция объектов
+* извлечение ROI (region of interest)
+* последующая обработка данных
+
+---
+
+## 🛠️ Технологии и инструменты
+
+**Языки:**
+
+* Python
+
+**Библиотеки и фреймворки:**
+
+* OpenCV
+* NumPy
+* PyTorch / TensorFlow (базовый уровень)
+
+**Инструменты:**
+
+* Git / GitHub
+* VS Code
+* Jupyter Notebook
+
+**Работа с данными:**
+
+* Подготовка и очистка данных
+* Обработка изображений
+* Формирование датасетов
+
+---
+
+## 📊 GitHub статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azratl1&show_icons=true&theme=default" />
+</p>
+
+---
+
+## 🎯 Профессиональные интересы
+
+* Machine Learning
+* Computer Vision
+* Анализ визуальных данных
+* Разработка AI-систем
+
+---
+
+## 📫 Контакты
+
+* Email: (добавить при необходимости)
+* Telegram / Discord: (добавить)
+
+---
