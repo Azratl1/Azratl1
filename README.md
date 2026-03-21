@@ -1,5 +1,4 @@
 <h1 align="center">Azratl</h1>
-<h3 align="center">Machine Learning & Computer Vision Developer</h3>
 
 ---
 
